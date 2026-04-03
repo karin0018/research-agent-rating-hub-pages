@@ -1,0 +1,44 @@
+{
+  "updatedAt": "2026-04-04T00:00:00Z",
+  "projects": [
+    {
+      "id": "karpathy-autoresearch",
+      "name": "autoresearch",
+      "fullName": "karpathy/autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "stars": 64876,
+      "starsLabel": "64.9k",
+      "accent": "#0f8c86",
+      "tags": ["research", "agent", "search"],
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "note": "核心项目，适合关注 agent 如何深入参与训练研究闭环的人。",
+      "isCore": true
+    },
+    {
+      "id": "bytedance-deer-flow",
+      "name": "deer-flow",
+      "fullName": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "stars": 57213,
+      "starsLabel": "57.2k",
+      "accent": "#f0b33b",
+      "tags": ["agent", "workflow", "deep-research", "research"],
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates.",
+      "note": "核心项目，更像完整工作台，适合偏产品化和复杂任务编排场景。",
+      "isCore": true
+    },
+    {
+      "id": "assafelovic-gpt-researcher",
+      "name": "gpt-researcher",
+      "fullName": "assafelovic/gpt-researcher",
+      "url": "https://github.com/assafelovic/gpt-researcher",
+      "stars": 26208,
+      "starsLabel": "26.2k",
+      "accent": "#e56b6f",
+      "tags": ["agent", "deep-research", "research"],
+      "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+      "note": "核心项目，成熟度高，适合快速体验成型 research agent 产品。",
+      "isCore": true
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+name: Review Post
+description: Share your experience with a research agent project
+title: "[Review] "
+labels:
+  - review
+body:
+  - type: markdown
+    attributes:
+      value: "Use the format below so the GitHub Pages site can parse your rating."
+  - type: input
+    id: project
+    attributes:
+      label: Project full name
+      placeholder: assafelovic/gpt-researcher
+    validations:
+      required: true
+  - type: input
+    id: rating
+    attributes:
+      label: Rating
+      placeholder: "5"
+      description: "Enter an integer from 1 to 5"
+    validations:
+      required: true
+  - type: textarea
+    id: review
+    attributes:
+      label: Your experience
+      description: "Mention what worked, what was hard, and who this project is good for."
+      value: |
+        Rating: 5
+
+        What worked well?
+        - 
+
+        What should others watch out for?
+        - 
+    validations:
+      required: true

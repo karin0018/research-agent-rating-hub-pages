@@ -1,0 +1,16 @@
+{
+  "updatedAt": "2026-04-04T00:00:00Z",
+  "reviewsByProject": {
+    "assafelovic-gpt-researcher": [
+      {
+        "title": "文档和生态都很成熟",
+        "body": "很适合做演示和二次开发，体验完整度高。",
+        "author": "seed-user",
+        "score": 5,
+        "createdAt": "2026-04-04T00:00:00Z",
+        "issueNumber": 1,
+        "issueUrl": "https://github.com/YOUR_GITHUB_USERNAME/research-agent-rating-hub-pages/issues/1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Research Agent Pages Edition</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">GitHub Pages Edition</p>
+          <h1>零服务器成本的 Auto Research Agent 社区榜单。</h1>
+          <p class="hero-text">
+            榜单数据由 GitHub Actions 定时同步，经验分享帖直接写进 GitHub Issues。页面本身托管在 GitHub Pages，可免费公开访问。
+          </p>
+          <div class="hero-actions">
+            <a class="primary-action" href="#project-grid">浏览榜单</a>
+            <a class="secondary-action" id="repo-link" href="#" target="_blank" rel="noreferrer">打开站点仓库</a>
+          </div>
+        </div>
+        <aside class="hero-panel">
+          <p class="panel-label">免费版机制</p>
+          <ul class="panel-list">
+            <li>项目榜单由 GitHub Actions 定时同步并缓存到仓库 JSON</li>
+            <li>每篇经验帖都是一个 GitHub Issue</li>
+            <li>评分从 Issue 内容里聚合，前端只读静态数据</li>
+          </ul>
+          <p class="panel-footnote">等待加载数据...</p>
+        </aside>
+      </header>
+
+      <section class="dashboard">
+        <div class="metric-card">
+          <span class="metric-label">收录项目</span>
+          <strong id="metric-projects">0</strong>
+        </div>
+        <div class="metric-card">
+          <span class="metric-label">经验帖</span>
+          <strong id="metric-reviews">0</strong>
+        </div>
+        <div class="metric-card">
+          <span class="metric-label">平均评分</span>
+          <strong id="metric-rating">0.0</strong>
+        </div>
+      </section>
+
+      <section class="controls">
+        <label class="search-box">
+          <span>搜索项目</span>
+          <input id="search-input" type="search" placeholder="比如 GPT Researcher / DeepResearch / RD-Agent" />
+        </label>
+
+        <label class="sort-box">
+          <span>排序方式</span>
+          <select id="sort-select">
+            <option value="stars">按 GitHub 星标</option>
+            <option value="rating">按社区评分</option>
+            <option value="reviews">按经验帖数量</option>
+            <option value="name">按名称</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="tag-strip" id="tag-strip"></section>
+      <main>
+        <section class="grid" id="project-grid"></section>
+      </main>
+    </div>
+
+    <template id="project-card-template">
+      <article class="project-card">
+        <div class="card-topline"></div>
+        <div class="card-header">
+          <div>
+            <p class="repo-path"></p>
+            <div class="title-row">
+              <h3 class="project-name"></h3>
+              <span class="core-badge">Core Pick</span>
+            </div>
+          </div>
+          <span class="star-pill"></span>
+        </div>
+
+        <p class="project-description"></p>
+
+        <div class="meta-row">
+          <span class="score-chip"></span>
+          <span class="review-chip"></span>
+        </div>
+
+        <div class="tag-row"></div>
+        <p class="project-note"></p>
+        <div class="recent-reviews"></div>
+
+        <div class="card-actions">
+          <a class="repo-link" target="_blank" rel="noreferrer">打开 GitHub</a>
+          <a class="secondary-action review-link" target="_blank" rel="noreferrer">查看经验帖</a>
+          <button class="primary-action create-review-link" type="button">写经验帖</button>
+        </div>
+      </article>
+    </template>
+
+    <template id="review-item-template">
+      <article class="review-item">
+        <div class="review-head">
+          <strong class="review-title"></strong>
+          <span class="review-score"></span>
+        </div>
+        <p class="review-body"></p>
+        <footer class="review-foot"></footer>
+      </article>
+    </template>
+
+    <dialog class="review-modal" id="review-modal">
+      <form class="review-sheet" id="review-form" method="dialog">
+        <div class="sheet-head">
+          <div>
+            <p class="sheet-eyebrow">Write A Review</p>
+            <h2 id="modal-project-name">项目经验帖</h2>
+          </div>
+          <button class="icon-button" id="close-modal" type="button" aria-label="关闭">×</button>
+        </div>
+
+        <div class="field-grid">
+          <label>
+            <span>你的昵称</span>
+            <input id="review-author" maxlength="24" placeholder="比如 roey" required />
+          </label>
+          <label>
+            <span>评分</span>
+            <select id="review-score" required>
+              <option value="5">5 分 · 强烈推荐</option>
+              <option value="4">4 分 · 很值得试</option>
+              <option value="3">3 分 · 有亮点</option>
+              <option value="2">2 分 · 一般般</option>
+              <option value="1">1 分 · 不太推荐</option>
+            </select>
+          </label>
+        </div>
+
+        <label>
+          <span>经验帖标题</span>
+          <input id="review-title" maxlength="80" placeholder="比如：文档完整，但初次配置有点绕" required />
+        </label>
+
+        <label>
+          <span>使用体验</span>
+          <textarea
+            id="review-body"
+            rows="7"
+            maxlength="1200"
+            placeholder="写下你觉得它适合什么场景、踩过哪些坑、和别的项目相比有什么差异。"
+            required
+          ></textarea>
+        </label>
+
+        <div class="sheet-actions">
+          <button class="secondary-action" id="preview-issue" type="button">预览 Issue 内容</button>
+          <button class="primary-action" type="submit">跳转到 GitHub 发帖</button>
+        </div>
+      </form>
+    </dialog>
+
+    <div class="toast" id="toast"></div>
+    <script src="./app.js"></script>
+  </body>
+</html>
