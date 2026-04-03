@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-03T18:19:11.987Z",
+  "updatedAt": "2026-04-03T18:45:28.046Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 64934,
+      "stars": 64945,
       "starsLabel": "64.9k",
       "accent": "#0f8c86",
       "tags": [
@@ -23,7 +23,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 57239,
+      "stars": 57246,
       "starsLabel": "57.2k",
       "accent": "#f0b33b",
       "tags": [
@@ -42,7 +42,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 26210,
+      "stars": 26211,
       "starsLabel": "26.2k",
       "accent": "#f0b33b",
       "tags": [
@@ -135,7 +135,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 10167,
+      "stars": 10169,
       "starsLabel": "10.2k",
       "accent": "#d97706",
       "tags": [
@@ -191,7 +191,7 @@
       "name": "AI-Research-SKILLs",
       "fullName": "Orchestra-Research/AI-Research-SKILLs",
       "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
-      "stars": 6094,
+      "stars": 6097,
       "starsLabel": "6.1k",
       "accent": "#c2410c",
       "tags": [
