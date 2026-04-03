@@ -1,40 +1,34 @@
 # research-agent-rating-hub-pages
 
-一个适合免费部署到 GitHub Pages 的版本。
+一个部署在 GitHub Pages 上的免费社区榜单，用来给 GitHub 上的开源 auto research agent 项目打分，并通过 GitHub Issues 收集经验分享帖。
 
-## 方案特点
+在线地址：
 
-- 不需要租服务器
-- 页面托管在 GitHub Pages
-- 项目榜单由 GitHub Actions 定时同步到静态 JSON
-- 用户经验帖直接写进 GitHub Issues
-- 前端只读取仓库里的缓存文件，加载稳定
+- https://karin0018.github.io/research-agent-rating-hub-pages/
 
-## 文件结构
+## 仓库功能
 
-- `index.html` `styles.css` `app.js`：静态前端
-- `data/projects.json`：项目榜单缓存
-- `data/reviews.json`：评分和经验帖摘要缓存
-- `data/site-config.json`：站点仓库配置
-- `scripts/sync-projects.mjs`：同步 GitHub 项目与 Issues 数据
-- `.github/workflows/sync-data.yml`：定时同步数据
-- `.github/workflows/deploy-pages.yml`：部署 Pages
-- `.github/ISSUE_TEMPLATE/review.yml`：经验帖模板
+- 展示 GitHub 上高关注度的 auto research agent / deep research agent 项目
+- 以卡片形式展示项目名称、GitHub 链接、星标、标签、简介和社区评分
+- 用户可以在页面里点击“写经验帖”，先在站内弹窗填写内容
+- 提交后会自动跳转到 GitHub `new issue` 页面，并预填标题与正文
+- 站点会自动从 GitHub Issues 聚合评分和经验帖摘要
+- GitHub Actions 会定时同步项目榜单，并在新 Issue 创建或编辑后自动更新页面数据
 
-## 使用步骤
+## 收录项目
 
-1. 把这个文件夹单独放进一个 GitHub 仓库
-2. 修改 [site-config.json](/Users/roey/work/research-agent-rating-hub-pages/data/site-config.json) 里的：
-   - `siteRepoOwner`
-   - `siteRepoName`
-3. 把仓库默认分支设为 `main`
-4. 打开仓库的 `Settings -> Pages`
-5. 选择 `GitHub Actions` 作为部署来源
-6. 启用仓库 `Issues`
-7. 手动运行一次 `Sync Projects And Reviews`
-8. 再运行或等待 `Deploy GitHub Pages`
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 
-## 评分帖怎么工作
+## 数据来源
+
+- 项目榜单：GitHub API
+- 经验帖与评分：本仓库 GitHub Issues
+- 页面托管：GitHub Pages
+- 自动更新：GitHub Actions
+
+## 经验帖规则
 
 - 每篇经验帖是一个 GitHub Issue
 - 标题需要以 `[Review]` 开头
@@ -42,15 +36,14 @@
   - `Project: owner/repo`
   - `Rating: 1-5`
 
-站点会把这些 Issue 聚合成项目评分和最新评论。
+站点会自动解析这些 Issue，并把它们展示为项目评分和最新评论。
 
-## 本地预览
+## 主要文件
 
-可以直接用任意静态文件服务器打开这个目录，比如：
-
-```bash
-cd /Users/roey/work/research-agent-rating-hub-pages
-python3 -m http.server 8000
-```
-
-然后访问 `http://127.0.0.1:8000`。
+- `index.html` `styles.css` `app.js`：静态前端页面
+- `data/projects.json`：项目榜单缓存
+- `data/reviews.json`：评分和经验帖摘要缓存
+- `data/site-config.json`：站点仓库配置
+- `scripts/sync-projects.mjs`：同步 GitHub 项目与 Issues 数据
+- `.github/workflows/deploy-pages.yml`：同步数据并部署 GitHub Pages
+- `.github/ISSUE_TEMPLATE/review.yml`：经验帖模板
