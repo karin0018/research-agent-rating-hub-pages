@@ -54,10 +54,9 @@ function getProjectStats(projectId) {
 function createIssueLinks(project) {
   const owner = state.config.siteRepoOwner;
   const repo = state.config.siteRepoName;
-  const label = `project:${project.id}`;
   const baseRepoUrl = `https://github.com/${owner}/${repo}`;
   const searchUrl = `${baseRepoUrl}/issues?q=${encodeURIComponent(`is:issue "[Review]" "${project.fullName}"`)}`;
-  return { searchUrl, baseRepoUrl, label };
+  return { searchUrl, baseRepoUrl };
 }
 
 function getSelectedProject() {
@@ -80,7 +79,6 @@ function buildIssueDraft(project, formValues) {
   ].join("\n");
   const createUrl = `${links.baseRepoUrl}/issues/new?${new URLSearchParams({
     title,
-    labels: `review,${links.label}`,
     body
   }).toString()}`;
   return { ...links, title, body, createUrl };

@@ -37,9 +37,10 @@
 ## 评分帖怎么工作
 
 - 每篇经验帖是一个 GitHub Issue
-- 需要带 `review` 标签
-- 需要带 `project:<project-id>` 标签
-- Issue 正文里需要包含一行：`Rating: 1-5`
+- 标题需要以 `[Review]` 开头
+- Issue 正文里需要包含：
+  - `Project: owner/repo`
+  - `Rating: 1-5`
 
 站点会把这些 Issue 聚合成项目评分和最新评论。
 

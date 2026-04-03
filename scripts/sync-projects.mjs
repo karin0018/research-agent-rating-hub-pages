@@ -67,18 +67,6 @@ async function github(endpoint) {
   return response.json();
 }
 
-async function ensureLabel(name, color, description) {
-  if (!GITHUB_REPOSITORY) return;
-  try {
-    await fetch(`https://api.github.com/repos/${GITHUB_REPOSITORY}/labels`, {
-      method: "POST",
-      headers: githubHeaders(),
-      body: JSON.stringify({ name, color, description }),
-      signal: AbortSignal.timeout(10000)
-    });
-  } catch {}
-}
-
 function pickAccent(seed) {
   const palette = ["#ff7a45", "#0f8c86", "#e56b6f", "#f0b33b", "#5a67d8", "#d97706", "#0ea5e9", "#c2410c"];
   const index = [...seed].reduce((sum, char) => sum + char.charCodeAt(0), 0) % palette.length;
@@ -228,7 +216,6 @@ async function syncReviews(projects) {
 
 async function main() {
   readJson(CONFIG_PATH);
-  await ensureLabel("review", "FBCA04", "Community review posts collected by the GitHub Pages board");
   const projects = await syncProjects();
   await syncReviews(projects);
 }
