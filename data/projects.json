@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-03T17:57:57.685Z",
+  "updatedAt": "2026-04-03T18:09:02.512Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 64926,
+      "stars": 64929,
       "starsLabel": "64.9k",
       "accent": "#0f8c86",
       "tags": [
@@ -23,7 +23,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 57236,
+      "stars": 57237,
       "starsLabel": "57.2k",
       "accent": "#f0b33b",
       "tags": [
@@ -42,7 +42,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 26207,
+      "stars": 26208,
       "starsLabel": "26.2k",
       "accent": "#f0b33b",
       "tags": [
