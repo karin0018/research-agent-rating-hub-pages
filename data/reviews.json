@@ -1,15 +1,24 @@
 {
-  "updatedAt": "2026-04-04T00:00:00Z",
+  "updatedAt": "2026-04-03T17:57:57.937Z",
   "reviewsByProject": {
-    "assafelovic-gpt-researcher": [
+    "bytedance-deer-flow": [
       {
-        "title": "文档和生态都很成熟",
-        "body": "很适合做演示和二次开发，体验完整度高。",
-        "author": "seed-user",
+        "title": "bytedance/deer-flow · test",
+        "body": "Project: bytedance/deer-flow\n\nReviewer: test\n\nReview:\ntest\n\n---\nPosted from the GitHub Pages community rating board.",
+        "author": "karin0018",
         "score": 5,
-        "createdAt": "2026-04-04T00:00:00Z",
+        "createdAt": "2026-04-03T17:50:35Z",
+        "issueNumber": 2,
+        "issueUrl": "https://github.com/karin0018/research-agent-rating-hub-pages/issues/2"
+      },
+      {
+        "title": "bytedance/deer-flow · test",
+        "body": "Project: bytedance/deer-flow\n\nReviewer: test\n\nReview:\ntest\n\n---\nPosted from the GitHub Pages community rating board.",
+        "author": "karin0018",
+        "score": 4,
+        "createdAt": "2026-04-03T17:48:33Z",
         "issueNumber": 1,
-        "issueUrl": "https://github.com/YOUR_GITHUB_USERNAME/research-agent-rating-hub-pages/issues/1"
+        "issueUrl": "https://github.com/karin0018/research-agent-rating-hub-pages/issues/1"
       }
     ]
   }
