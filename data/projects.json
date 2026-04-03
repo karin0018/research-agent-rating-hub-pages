@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-03T18:11:50.603Z",
+  "updatedAt": "2026-04-03T18:15:41.944Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 64931,
+      "stars": 64932,
       "starsLabel": "64.9k",
       "accent": "#0f8c86",
       "tags": [
@@ -23,7 +23,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 57238,
+      "stars": 57239,
       "starsLabel": "57.2k",
       "accent": "#f0b33b",
       "tags": [
@@ -42,7 +42,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 26208,
+      "stars": 26210,
       "starsLabel": "26.2k",
       "accent": "#f0b33b",
       "tags": [
@@ -61,7 +61,7 @@
       "name": "deep-research",
       "fullName": "dzhng/deep-research",
       "url": "https://github.com/dzhng/deep-research",
-      "stars": 18683,
+      "stars": 18684,
       "starsLabel": "18.7k",
       "accent": "#e56b6f",
       "tags": [
@@ -135,7 +135,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 10167,
+      "stars": 10168,
       "starsLabel": "10.2k",
       "accent": "#d97706",
       "tags": [
@@ -154,7 +154,7 @@
       "name": "deep-searcher",
       "fullName": "zilliztech/deep-searcher",
       "url": "https://github.com/zilliztech/deep-searcher",
-      "stars": 7743,
+      "stars": 7744,
       "starsLabel": "7.7k",
       "accent": "#0f8c86",
       "tags": [
@@ -173,7 +173,7 @@
       "name": "open-deep-research",
       "fullName": "nickscamara/open-deep-research",
       "url": "https://github.com/nickscamara/open-deep-research",
-      "stars": 6205,
+      "stars": 6206,
       "starsLabel": "6.2k",
       "accent": "#f0b33b",
       "tags": [
