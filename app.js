@@ -56,7 +56,7 @@ function createIssueLinks(project) {
   const repo = state.config.siteRepoName;
   const label = `project:${project.id}`;
   const baseRepoUrl = `https://github.com/${owner}/${repo}`;
-  const searchUrl = `${baseRepoUrl}/issues?q=${encodeURIComponent(`is:issue label:review "${label}"`)}`;
+  const searchUrl = `${baseRepoUrl}/issues?q=${encodeURIComponent(`is:issue "[Review]" "${project.fullName}"`)}`;
   return { searchUrl, baseRepoUrl, label };
 }
 

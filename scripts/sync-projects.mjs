@@ -67,6 +67,18 @@ async function github(endpoint) {
   return response.json();
 }
 
+async function ensureLabel(name, color, description) {
+  if (!GITHUB_REPOSITORY) return;
+  try {
+    await fetch(`https://api.github.com/repos/${GITHUB_REPOSITORY}/labels`, {
+      method: "POST",
+      headers: githubHeaders(),
+      body: JSON.stringify({ name, color, description }),
+      signal: AbortSignal.timeout(10000)
+    });
+  } catch {}
+}
+
 function pickAccent(seed) {
   const palette = ["#ff7a45", "#0f8c86", "#e56b6f", "#f0b33b", "#5a67d8", "#d97706", "#0ea5e9", "#c2410c"];
   const index = [...seed].reduce((sum, char) => sum + char.charCodeAt(0), 0) % palette.length;
@@ -126,6 +138,11 @@ function parseRating(body) {
   return match ? Number(match[1]) : null;
 }
 
+function parseProjectFullName(body) {
+  const match = String(body || "").match(/project:\s*([^\n\r]+)/i);
+  return match ? match[1].trim() : null;
+}
+
 async function syncProjects() {
   const repoMap = new Map();
 
@@ -172,17 +189,16 @@ async function syncReviews(projects) {
     return;
   }
 
-  const issues = await github(`/repos/${GITHUB_REPOSITORY}/issues?state=all&labels=review&per_page=100`);
-  const validProjectIds = new Set(projects.map((project) => project.id));
+  const issues = await github(`/repos/${GITHUB_REPOSITORY}/issues?state=all&per_page=100`);
+  const projectIdByFullName = Object.fromEntries(projects.map((project) => [project.fullName.toLowerCase(), project.id]));
   const reviewsByProject = {};
 
   for (const issue of issues) {
     if (issue.pull_request) continue;
-    const labels = (issue.labels || []).map((label) => (typeof label === "string" ? label : label.name));
-    const projectLabel = labels.find((label) => label.startsWith("project:"));
-    if (!projectLabel) continue;
-    const projectId = projectLabel.replace("project:", "");
-    if (!validProjectIds.has(projectId)) continue;
+    const isReviewTitle = /^\[Review\]/i.test(issue.title || "");
+    const projectFullName = parseProjectFullName(issue.body);
+    const projectId = projectFullName ? projectIdByFullName[projectFullName.toLowerCase()] : null;
+    if (!isReviewTitle || !projectId) continue;
     const score = parseRating(issue.body);
     if (!score) continue;
 
@@ -212,6 +228,7 @@ async function syncReviews(projects) {
 
 async function main() {
   readJson(CONFIG_PATH);
+  await ensureLabel("review", "FBCA04", "Community review posts collected by the GitHub Pages board");
   const projects = await syncProjects();
   await syncReviews(projects);
 }
