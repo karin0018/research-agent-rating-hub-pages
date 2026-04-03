@@ -20,6 +20,16 @@
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+- [dzhng/deep-research](https://github.com/dzhng/deep-research)
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
+- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+- [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)
+- [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
+- [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)
+- [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research)
+- [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs)
+- [Intelligent-Internet/ii-researcher](https://github.com/Intelligent-Internet/ii-researcher)
+- [CopilotKit/open-research-ANA](https://github.com/CopilotKit/open-research-ANA)
 
 ## 数据来源
 
