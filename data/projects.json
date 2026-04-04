@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T12:54:24.061Z",
+  "updatedAt": "2026-04-04T12:57:59.499Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
@@ -42,7 +42,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 26222,
+      "stars": 26223,
       "starsLabel": "26.2k",
       "accent": "#f0b33b",
       "tags": [
