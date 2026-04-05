@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-05T07:05:09.411Z",
+  "updatedAt": "2026-04-05T07:08:56.119Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 65911,
+      "stars": 65914,
       "starsLabel": "65.9k",
       "accent": "#0f8c86",
       "tags": [
@@ -23,7 +23,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 57937,
+      "stars": 57938,
       "starsLabel": "57.9k",
       "accent": "#f0b33b",
       "tags": [
@@ -80,7 +80,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 18599,
+      "stars": 18600,
       "starsLabel": "18.6k",
       "accent": "#d97706",
       "tags": [
@@ -135,7 +135,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 10351,
+      "stars": 10353,
       "starsLabel": "10.4k",
       "accent": "#d97706",
       "tags": [
