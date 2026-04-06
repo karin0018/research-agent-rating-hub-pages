@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-05T18:46:00.428Z",
+  "updatedAt": "2026-04-06T02:27:58.324Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 66294,
-      "starsLabel": "66.3k",
+      "stars": 66519,
+      "starsLabel": "66.5k",
       "accent": "#0f8c86",
       "tags": [
         "research",
@@ -23,8 +23,8 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 58197,
-      "starsLabel": "58.2k",
+      "stars": 58275,
+      "starsLabel": "58.3k",
       "accent": "#f0b33b",
       "tags": [
         "agent",
@@ -99,7 +99,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 12317,
+      "stars": 12323,
       "starsLabel": "12.3k",
       "accent": "#c2410c",
       "tags": [
@@ -135,7 +135,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 10399,
+      "stars": 10416,
       "starsLabel": "10.4k",
       "accent": "#d97706",
       "tags": [
@@ -173,7 +173,7 @@
       "name": "open-deep-research",
       "fullName": "nickscamara/open-deep-research",
       "url": "https://github.com/nickscamara/open-deep-research",
-      "stars": 6206,
+      "stars": 6205,
       "starsLabel": "6.2k",
       "accent": "#f0b33b",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "open-research-ANA",
       "fullName": "CopilotKit/open-research-ANA",
       "url": "https://github.com/CopilotKit/open-research-ANA",
-      "stars": 381,
-      "starsLabel": "381",
+      "stars": 382,
+      "starsLabel": "382",
       "accent": "#e56b6f",
       "tags": [
         "agent-native",
