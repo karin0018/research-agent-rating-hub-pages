@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-07T02:31:18.104Z",
+  "updatedAt": "2026-04-07T07:15:37.263Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 67350,
-      "starsLabel": "67.3k",
+      "stars": 67565,
+      "starsLabel": "67.6k",
       "accent": "#0f8c86",
       "tags": [
         "research",
@@ -23,8 +23,8 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 58695,
-      "starsLabel": "58.7k",
+      "stars": 58840,
+      "starsLabel": "58.8k",
       "accent": "#f0b33b",
       "tags": [
         "agent",
@@ -42,7 +42,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 26266,
+      "stars": 26268,
       "starsLabel": "26.3k",
       "accent": "#f0b33b",
       "tags": [
@@ -61,7 +61,7 @@
       "name": "deep-research",
       "fullName": "dzhng/deep-research",
       "url": "https://github.com/dzhng/deep-research",
-      "stars": 18699,
+      "stars": 18700,
       "starsLabel": "18.7k",
       "accent": "#e56b6f",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 12352,
+      "stars": 12358,
       "starsLabel": "12.4k",
       "accent": "#c2410c",
       "tags": [
@@ -118,7 +118,7 @@
       "name": "open_deep_research",
       "fullName": "langchain-ai/open_deep_research",
       "url": "https://github.com/langchain-ai/open_deep_research",
-      "stars": 11027,
+      "stars": 11034,
       "starsLabel": "11.0k",
       "accent": "#0ea5e9",
       "tags": [
@@ -135,8 +135,8 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 10545,
-      "starsLabel": "10.5k",
+      "stars": 10577,
+      "starsLabel": "10.6k",
       "accent": "#d97706",
       "tags": [
         "autonomous-research",
@@ -173,7 +173,7 @@
       "name": "open-deep-research",
       "fullName": "nickscamara/open-deep-research",
       "url": "https://github.com/nickscamara/open-deep-research",
-      "stars": 6206,
+      "stars": 6207,
       "starsLabel": "6.2k",
       "accent": "#f0b33b",
       "tags": [
