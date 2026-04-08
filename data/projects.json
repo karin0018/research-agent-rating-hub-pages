@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-08T19:14:58.268Z",
+  "updatedAt": "2026-04-08T19:18:32.812Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 68741,
+      "stars": 68743,
       "starsLabel": "68.7k",
       "accent": "#0f8c86",
       "tags": [
@@ -61,7 +61,7 @@
       "name": "deep-research",
       "fullName": "dzhng/deep-research",
       "url": "https://github.com/dzhng/deep-research",
-      "stars": 18708,
+      "stars": 18709,
       "starsLabel": "18.7k",
       "accent": "#e56b6f",
       "tags": [
@@ -135,7 +135,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 10775,
+      "stars": 10776,
       "starsLabel": "10.8k",
       "accent": "#d97706",
       "tags": [
