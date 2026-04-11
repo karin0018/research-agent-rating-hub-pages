@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-11T18:43:02.415Z",
+  "updatedAt": "2026-04-11T18:47:22.832Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 70416,
+      "stars": 70417,
       "starsLabel": "70.4k",
       "accent": "#0f8c86",
       "tags": [
@@ -135,7 +135,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 10943,
+      "stars": 10944,
       "starsLabel": "10.9k",
       "accent": "#d97706",
       "tags": [
