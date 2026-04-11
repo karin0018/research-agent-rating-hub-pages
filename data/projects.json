@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-11T02:09:26.296Z",
+  "updatedAt": "2026-04-11T02:23:48.125Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 70091,
+      "stars": 70098,
       "starsLabel": "70.1k",
       "accent": "#0f8c86",
       "tags": [
@@ -23,7 +23,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 60254,
+      "stars": 60258,
       "starsLabel": "60.3k",
       "accent": "#f0b33b",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 12435,
+      "stars": 12436,
       "starsLabel": "12.4k",
       "accent": "#c2410c",
       "tags": [
@@ -135,7 +135,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 10898,
+      "stars": 10899,
       "starsLabel": "10.9k",
       "accent": "#d97706",
       "tags": [
