@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-13T02:36:41.738Z",
+  "updatedAt": "2026-04-13T02:46:16.742Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 71064,
+      "stars": 71070,
       "starsLabel": "71.1k",
       "accent": "#0f8c86",
       "tags": [
@@ -23,7 +23,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 60833,
+      "stars": 60835,
       "starsLabel": "60.8k",
       "accent": "#f0b33b",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 12468,
+      "stars": 12469,
       "starsLabel": "12.5k",
       "accent": "#c2410c",
       "tags": [
