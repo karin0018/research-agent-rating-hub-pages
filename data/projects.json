@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-15T19:19:43.802Z",
+  "updatedAt": "2026-04-16T02:35:36.531Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 72736,
-      "starsLabel": "72.7k",
+      "stars": 72868,
+      "starsLabel": "72.9k",
       "accent": "#0f8c86",
       "tags": [
         "research",
@@ -23,7 +23,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 61775,
+      "stars": 61831,
       "starsLabel": "61.8k",
       "accent": "#f0b33b",
       "tags": [
@@ -42,7 +42,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 26471,
+      "stars": 26473,
       "starsLabel": "26.5k",
       "accent": "#f0b33b",
       "tags": [
@@ -80,7 +80,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 18663,
+      "stars": 18664,
       "starsLabel": "18.7k",
       "accent": "#d97706",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 12525,
+      "stars": 12529,
       "starsLabel": "12.5k",
       "accent": "#c2410c",
       "tags": [
@@ -118,7 +118,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 11200,
+      "stars": 11209,
       "starsLabel": "11.2k",
       "accent": "#d97706",
       "tags": [
@@ -137,7 +137,7 @@
       "name": "open_deep_research",
       "fullName": "langchain-ai/open_deep_research",
       "url": "https://github.com/langchain-ai/open_deep_research",
-      "stars": 11110,
+      "stars": 11112,
       "starsLabel": "11.1k",
       "accent": "#0ea5e9",
       "tags": [
@@ -154,7 +154,7 @@
       "name": "deep-searcher",
       "fullName": "zilliztech/deep-searcher",
       "url": "https://github.com/zilliztech/deep-searcher",
-      "stars": 7751,
+      "stars": 7752,
       "starsLabel": "7.8k",
       "accent": "#0f8c86",
       "tags": [
