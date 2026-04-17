@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-17T07:45:13.827Z",
+  "updatedAt": "2026-04-17T07:48:44.854Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 73584,
+      "stars": 73587,
       "starsLabel": "73.6k",
       "accent": "#0f8c86",
       "tags": [
@@ -23,7 +23,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 62143,
+      "stars": 62144,
       "starsLabel": "62.1k",
       "accent": "#f0b33b",
       "tags": [
