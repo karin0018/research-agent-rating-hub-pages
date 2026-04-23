@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-23T07:55:35.760Z",
+  "updatedAt": "2026-04-23T13:27:31.957Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 75781,
-      "starsLabel": "75.8k",
+      "stars": 75890,
+      "starsLabel": "75.9k",
       "accent": "#0f8c86",
       "tags": [
         "research",
@@ -23,7 +23,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 63493,
+      "stars": 63534,
       "starsLabel": "63.5k",
       "accent": "#f0b33b",
       "tags": [
@@ -42,7 +42,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 26627,
+      "stars": 26635,
       "starsLabel": "26.6k",
       "accent": "#f0b33b",
       "tags": [
@@ -61,7 +61,7 @@
       "name": "deep-research",
       "fullName": "dzhng/deep-research",
       "url": "https://github.com/dzhng/deep-research",
-      "stars": 18791,
+      "stars": 18794,
       "starsLabel": "18.8k",
       "accent": "#e56b6f",
       "tags": [
@@ -80,7 +80,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 18726,
+      "stars": 18729,
       "starsLabel": "18.7k",
       "accent": "#d97706",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 12627,
+      "stars": 12632,
       "starsLabel": "12.6k",
       "accent": "#c2410c",
       "tags": [
@@ -118,8 +118,8 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 11545,
-      "starsLabel": "11.5k",
+      "stars": 11566,
+      "starsLabel": "11.6k",
       "accent": "#d97706",
       "tags": [
         "autonomous-research",
@@ -137,7 +137,7 @@
       "name": "open_deep_research",
       "fullName": "langchain-ai/open_deep_research",
       "url": "https://github.com/langchain-ai/open_deep_research",
-      "stars": 11204,
+      "stars": 11209,
       "starsLabel": "11.2k",
       "accent": "#0ea5e9",
       "tags": [
@@ -154,7 +154,7 @@
       "name": "deep-searcher",
       "fullName": "zilliztech/deep-searcher",
       "url": "https://github.com/zilliztech/deep-searcher",
-      "stars": 7777,
+      "stars": 7778,
       "starsLabel": "7.8k",
       "accent": "#0f8c86",
       "tags": [
@@ -173,7 +173,7 @@
       "name": "open-deep-research",
       "fullName": "nickscamara/open-deep-research",
       "url": "https://github.com/nickscamara/open-deep-research",
-      "stars": 6208,
+      "stars": 6209,
       "starsLabel": "6.2k",
       "accent": "#f0b33b",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "open-research-ANA",
       "fullName": "CopilotKit/open-research-ANA",
       "url": "https://github.com/CopilotKit/open-research-ANA",
-      "stars": 383,
-      "starsLabel": "383",
+      "stars": 384,
+      "starsLabel": "384",
       "accent": "#e56b6f",
       "tags": [
         "agent-native",
