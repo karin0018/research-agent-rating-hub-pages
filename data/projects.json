@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-24T18:50:53.478Z",
+  "updatedAt": "2026-04-24T18:54:02.405Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 76287,
+      "stars": 76290,
       "starsLabel": "76.3k",
       "accent": "#0f8c86",
       "tags": [
