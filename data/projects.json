@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-25T13:06:16.941Z",
+  "updatedAt": "2026-04-25T18:52:15.679Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 76446,
-      "starsLabel": "76.4k",
+      "stars": 76546,
+      "starsLabel": "76.5k",
       "accent": "#0f8c86",
       "tags": [
         "research",
@@ -23,8 +23,8 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 63728,
-      "starsLabel": "63.7k",
+      "stars": 63770,
+      "starsLabel": "63.8k",
       "accent": "#f0b33b",
       "tags": [
         "agent",
@@ -42,7 +42,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 26693,
+      "stars": 26699,
       "starsLabel": "26.7k",
       "accent": "#f0b33b",
       "tags": [
@@ -80,7 +80,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 18741,
+      "stars": 18743,
       "starsLabel": "18.7k",
       "accent": "#d97706",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 12660,
+      "stars": 12665,
       "starsLabel": "12.7k",
       "accent": "#c2410c",
       "tags": [
@@ -118,7 +118,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 11617,
+      "stars": 11627,
       "starsLabel": "11.6k",
       "accent": "#d97706",
       "tags": [
@@ -154,7 +154,7 @@
       "name": "deep-searcher",
       "fullName": "zilliztech/deep-searcher",
       "url": "https://github.com/zilliztech/deep-searcher",
-      "stars": 7783,
+      "stars": 7784,
       "starsLabel": "7.8k",
       "accent": "#0f8c86",
       "tags": [
