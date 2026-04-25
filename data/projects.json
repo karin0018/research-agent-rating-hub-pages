@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T18:52:15.679Z",
+  "updatedAt": "2026-04-25T18:55:15.215Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
@@ -118,7 +118,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 11627,
+      "stars": 11628,
       "starsLabel": "11.6k",
       "accent": "#d97706",
       "tags": [
