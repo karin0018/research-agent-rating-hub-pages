@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-25T18:55:15.215Z",
+  "updatedAt": "2026-04-26T02:39:40.702Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 76546,
-      "starsLabel": "76.5k",
+      "stars": 76619,
+      "starsLabel": "76.6k",
       "accent": "#0f8c86",
       "tags": [
         "research",
@@ -23,7 +23,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 63770,
+      "stars": 63791,
       "starsLabel": "63.8k",
       "accent": "#f0b33b",
       "tags": [
@@ -42,7 +42,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 26699,
+      "stars": 26704,
       "starsLabel": "26.7k",
       "accent": "#f0b33b",
       "tags": [
@@ -80,7 +80,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 18743,
+      "stars": 18744,
       "starsLabel": "18.7k",
       "accent": "#d97706",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 12665,
+      "stars": 12666,
       "starsLabel": "12.7k",
       "accent": "#c2410c",
       "tags": [
@@ -118,7 +118,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 11628,
+      "stars": 11631,
       "starsLabel": "11.6k",
       "accent": "#d97706",
       "tags": [
@@ -137,7 +137,7 @@
       "name": "open_deep_research",
       "fullName": "langchain-ai/open_deep_research",
       "url": "https://github.com/langchain-ai/open_deep_research",
-      "stars": 11238,
+      "stars": 11239,
       "starsLabel": "11.2k",
       "accent": "#0ea5e9",
       "tags": [
