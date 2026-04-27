@@ -1,34 +1,4 @@
 {
-  "updatedAt": "2026-04-27T13:56:11.348Z",
-  "reviewsByProject": {
-    "bytedance-deer-flow": [
-      {
-        "title": "bytedance/deer-flow · 66666",
-        "body": "Project: bytedance/deer-flow\n\nReviewer: 6666\n\nReview:\n666666\n\n---\nPosted from the GitHub Pages community rating board.",
-        "author": "karin0018",
-        "score": 5,
-        "createdAt": "2026-04-03T18:00:07Z",
-        "issueNumber": 3,
-        "issueUrl": "https://github.com/karin0018/research-agent-rating-hub-pages/issues/3"
-      },
-      {
-        "title": "bytedance/deer-flow · test",
-        "body": "Project: bytedance/deer-flow\n\nReviewer: test\n\nReview:\ntest\n\n---\nPosted from the GitHub Pages community rating board.",
-        "author": "karin0018",
-        "score": 5,
-        "createdAt": "2026-04-03T17:50:35Z",
-        "issueNumber": 2,
-        "issueUrl": "https://github.com/karin0018/research-agent-rating-hub-pages/issues/2"
-      },
-      {
-        "title": "bytedance/deer-flow · test",
-        "body": "Project: bytedance/deer-flow\n\nReviewer: test\n\nReview:\ntest\n\n---\nPosted from the GitHub Pages community rating board.",
-        "author": "karin0018",
-        "score": 4,
-        "createdAt": "2026-04-03T17:48:33Z",
-        "issueNumber": 1,
-        "issueUrl": "https://github.com/karin0018/research-agent-rating-hub-pages/issues/1"
-      }
-    ]
-  }
+  "updatedAt": "2026-04-27T19:20:20.819Z",
+  "reviewsByProject": {}
 }

@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-27T13:56:10.876Z",
+  "updatedAt": "2026-04-27T19:20:20.229Z",
   "projects": [
     {
       "id": "karpathy-autoresearch",
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 77084,
-      "starsLabel": "77.1k",
+      "stars": 77173,
+      "starsLabel": "77.2k",
       "accent": "#0f8c86",
       "tags": [
         "research",
@@ -23,7 +23,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 63997,
+      "stars": 64013,
       "starsLabel": "64.0k",
       "accent": "#f0b33b",
       "tags": [
@@ -42,7 +42,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 26739,
+      "stars": 26741,
       "starsLabel": "26.7k",
       "accent": "#f0b33b",
       "tags": [
@@ -61,7 +61,7 @@
       "name": "deep-research",
       "fullName": "dzhng/deep-research",
       "url": "https://github.com/dzhng/deep-research",
-      "stars": 18822,
+      "stars": 18823,
       "starsLabel": "18.8k",
       "accent": "#e56b6f",
       "tags": [
@@ -80,7 +80,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 18758,
+      "stars": 18760,
       "starsLabel": "18.8k",
       "accent": "#d97706",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 12684,
+      "stars": 12686,
       "starsLabel": "12.7k",
       "accent": "#c2410c",
       "tags": [
@@ -114,30 +114,11 @@
       "isCore": true
     },
     {
-      "id": "aiming-lab-autoresearchclaw",
-      "name": "AutoResearchClaw",
-      "fullName": "aiming-lab/AutoResearchClaw",
-      "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 11714,
-      "starsLabel": "11.7k",
-      "accent": "#d97706",
-      "tags": [
-        "autonomous-research",
-        "citation-verification",
-        "llm-agents",
-        "metaclaw",
-        "research"
-      ],
-      "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "note": "由 GitHub Actions 自动同步收录。",
-      "isCore": false
-    },
-    {
       "id": "langchain-ai-open_deep_research",
       "name": "open_deep_research",
       "fullName": "langchain-ai/open_deep_research",
       "url": "https://github.com/langchain-ai/open_deep_research",
-      "stars": 11252,
+      "stars": 11255,
       "starsLabel": "11.3k",
       "accent": "#0ea5e9",
       "tags": [
@@ -154,7 +135,7 @@
       "name": "deep-searcher",
       "fullName": "zilliztech/deep-searcher",
       "url": "https://github.com/zilliztech/deep-searcher",
-      "stars": 7791,
+      "stars": 7792,
       "starsLabel": "7.8k",
       "accent": "#0f8c86",
       "tags": [
