@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-04T08:30:46.165Z",
+  "updatedAt": "2026-05-04T13:58:31.662Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 131733,
-      "starsLabel": "131.7k",
+      "stars": 132122,
+      "starsLabel": "132.1k",
       "accent": "#0f8c86",
       "tags": [
         "ai",
@@ -25,8 +25,8 @@
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 78743,
-      "starsLabel": "78.7k",
+      "stars": 78794,
+      "starsLabel": "78.8k",
       "accent": "#0f8c86",
       "tags": [
         "research",
@@ -42,7 +42,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 64666,
+      "stars": 64731,
       "starsLabel": "64.7k",
       "accent": "#f0b33b",
       "tags": [
@@ -80,7 +80,7 @@
       "name": "deep-research",
       "fullName": "dzhng/deep-research",
       "url": "https://github.com/dzhng/deep-research",
-      "stars": 18851,
+      "stars": 18850,
       "starsLabel": "18.9k",
       "accent": "#e56b6f",
       "tags": [
@@ -118,7 +118,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 12777,
+      "stars": 12784,
       "starsLabel": "12.8k",
       "accent": "#c2410c",
       "tags": [
@@ -137,7 +137,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 11898,
+      "stars": 11906,
       "starsLabel": "11.9k",
       "accent": "#d97706",
       "tags": [
@@ -156,7 +156,7 @@
       "name": "open_deep_research",
       "fullName": "langchain-ai/open_deep_research",
       "url": "https://github.com/langchain-ai/open_deep_research",
-      "stars": 11302,
+      "stars": 11305,
       "starsLabel": "11.3k",
       "accent": "#0ea5e9",
       "tags": [
@@ -173,7 +173,7 @@
       "name": "deep-searcher",
       "fullName": "zilliztech/deep-searcher",
       "url": "https://github.com/zilliztech/deep-searcher",
-      "stars": 7808,
+      "stars": 7809,
       "starsLabel": "7.8k",
       "accent": "#0f8c86",
       "tags": [
