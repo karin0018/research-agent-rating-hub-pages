@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-08T07:29:07.754Z",
+  "updatedAt": "2026-05-08T07:43:13.953Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 138129,
-      "starsLabel": "138.1k",
+      "stars": 138157,
+      "starsLabel": "138.2k",
       "accent": "#0f8c86",
       "tags": [
         "ai",
@@ -42,7 +42,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 65994,
+      "stars": 65998,
       "starsLabel": "66.0k",
       "accent": "#f0b33b",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 18815,
+      "stars": 18816,
       "starsLabel": "18.8k",
       "accent": "#d97706",
       "tags": [
@@ -118,7 +118,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 12857,
+      "stars": 12858,
       "starsLabel": "12.9k",
       "accent": "#c2410c",
       "tags": [
