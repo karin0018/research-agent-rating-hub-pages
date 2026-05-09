@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-09T13:19:28.294Z",
+  "updatedAt": "2026-05-09T19:00:05.936Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 140309,
-      "starsLabel": "140.3k",
+      "stars": 140722,
+      "starsLabel": "140.7k",
       "accent": "#0f8c86",
       "tags": [
         "ai",
@@ -25,8 +25,8 @@
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 79928,
-      "starsLabel": "79.9k",
+      "stars": 79990,
+      "starsLabel": "80.0k",
       "accent": "#0f8c86",
       "tags": [
         "research",
@@ -42,7 +42,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 66220,
+      "stars": 66243,
       "starsLabel": "66.2k",
       "accent": "#f0b33b",
       "tags": [
@@ -61,7 +61,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 26956,
+      "stars": 26958,
       "starsLabel": "27.0k",
       "accent": "#f0b33b",
       "tags": [
@@ -80,7 +80,7 @@
       "name": "deep-research",
       "fullName": "dzhng/deep-research",
       "url": "https://github.com/dzhng/deep-research",
-      "stars": 18876,
+      "stars": 18877,
       "starsLabel": "18.9k",
       "accent": "#e56b6f",
       "tags": [
@@ -118,7 +118,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 12889,
+      "stars": 12895,
       "starsLabel": "12.9k",
       "accent": "#c2410c",
       "tags": [
@@ -137,7 +137,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 12011,
+      "stars": 12014,
       "starsLabel": "12.0k",
       "accent": "#d97706",
       "tags": [
@@ -156,8 +156,8 @@
       "name": "open_deep_research",
       "fullName": "langchain-ai/open_deep_research",
       "url": "https://github.com/langchain-ai/open_deep_research",
-      "stars": 11349,
-      "starsLabel": "11.3k",
+      "stars": 11351,
+      "starsLabel": "11.4k",
       "accent": "#0ea5e9",
       "tags": [
         "research",
@@ -173,7 +173,7 @@
       "name": "deep-searcher",
       "fullName": "zilliztech/deep-searcher",
       "url": "https://github.com/zilliztech/deep-searcher",
-      "stars": 7815,
+      "stars": 7816,
       "starsLabel": "7.8k",
       "accent": "#0f8c86",
       "tags": [
