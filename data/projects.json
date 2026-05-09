@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-09T19:00:05.936Z",
+  "updatedAt": "2026-05-09T19:02:49.775Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 140722,
+      "stars": 140724,
       "starsLabel": "140.7k",
       "accent": "#0f8c86",
       "tags": [
@@ -25,7 +25,7 @@
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 79990,
+      "stars": 79991,
       "starsLabel": "80.0k",
       "accent": "#0f8c86",
       "tags": [
