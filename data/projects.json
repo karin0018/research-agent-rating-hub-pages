@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-11T09:37:43.427Z",
+  "updatedAt": "2026-05-11T09:40:46.141Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 143470,
+      "stars": 143474,
       "starsLabel": "143.5k",
       "accent": "#0f8c86",
       "tags": [
@@ -137,7 +137,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 12050,
+      "stars": 12051,
       "starsLabel": "12.1k",
       "accent": "#d97706",
       "tags": [
