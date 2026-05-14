@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-14T03:21:38.992Z",
+  "updatedAt": "2026-05-14T03:31:12.953Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 148906,
+      "stars": 148924,
       "starsLabel": "148.9k",
       "accent": "#0f8c86",
       "tags": [
@@ -25,7 +25,7 @@
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 80928,
+      "stars": 80930,
       "starsLabel": "80.9k",
       "accent": "#0f8c86",
       "tags": [
@@ -42,7 +42,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 67525,
+      "stars": 67527,
       "starsLabel": "67.5k",
       "accent": "#f0b33b",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 18858,
+      "stars": 18859,
       "starsLabel": "18.9k",
       "accent": "#d97706",
       "tags": [
@@ -137,7 +137,7 @@
       "name": "AutoResearchClaw",
       "fullName": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "stars": 12131,
+      "stars": 12133,
       "starsLabel": "12.1k",
       "accent": "#d97706",
       "tags": [
