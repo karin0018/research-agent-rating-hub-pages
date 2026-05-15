@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-15T19:27:47.698Z",
+  "updatedAt": "2026-05-15T19:39:09.454Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 151800,
+      "stars": 151807,
       "starsLabel": "151.8k",
       "accent": "#0f8c86",
       "tags": [
