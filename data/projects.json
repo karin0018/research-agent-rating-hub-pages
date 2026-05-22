@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-22T09:20:32.025Z",
+  "updatedAt": "2026-05-22T09:26:05.057Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 162243,
-      "starsLabel": "162.2k",
+      "stars": 162253,
+      "starsLabel": "162.3k",
       "accent": "#0f8c86",
       "tags": [
         "ai",
@@ -25,7 +25,7 @@
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 82691,
+      "stars": 82694,
       "starsLabel": "82.7k",
       "accent": "#0f8c86",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 18933,
+      "stars": 18934,
       "starsLabel": "18.9k",
       "accent": "#d97706",
       "tags": [
