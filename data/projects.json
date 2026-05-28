@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-28T03:30:32.827Z",
+  "updatedAt": "2026-05-28T03:40:51.253Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 170444,
-      "starsLabel": "170.4k",
+      "stars": 170458,
+      "starsLabel": "170.5k",
       "accent": "#0f8c86",
       "tags": [
         "ai",
@@ -61,7 +61,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 27348,
+      "stars": 27349,
       "starsLabel": "27.3k",
       "accent": "#f0b33b",
       "tags": [
@@ -137,7 +137,7 @@
       "name": "open_deep_research",
       "fullName": "langchain-ai/open_deep_research",
       "url": "https://github.com/langchain-ai/open_deep_research",
-      "stars": 11511,
+      "stars": 11512,
       "starsLabel": "11.5k",
       "accent": "#0ea5e9",
       "tags": [
