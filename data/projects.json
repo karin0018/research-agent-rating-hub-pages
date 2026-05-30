@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T19:13:19.521Z",
+  "updatedAt": "2026-05-30T19:16:47.445Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
@@ -25,7 +25,7 @@
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 84178,
+      "stars": 84179,
       "starsLabel": "84.2k",
       "accent": "#0f8c86",
       "tags": [
