@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-31T03:56:10.058Z",
+  "updatedAt": "2026-05-31T08:43:26.191Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 173840,
-      "starsLabel": "173.8k",
+      "stars": 174078,
+      "starsLabel": "174.1k",
       "accent": "#0f8c86",
       "tags": [
         "ai",
@@ -25,7 +25,7 @@
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 84208,
+      "stars": 84241,
       "starsLabel": "84.2k",
       "accent": "#0f8c86",
       "tags": [
@@ -42,8 +42,8 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 70039,
-      "starsLabel": "70.0k",
+      "stars": 70051,
+      "starsLabel": "70.1k",
       "accent": "#f0b33b",
       "tags": [
         "agent",
@@ -61,7 +61,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 27403,
+      "stars": 27404,
       "starsLabel": "27.4k",
       "accent": "#f0b33b",
       "tags": [
@@ -80,7 +80,7 @@
       "name": "deep-research",
       "fullName": "dzhng/deep-research",
       "url": "https://github.com/dzhng/deep-research",
-      "stars": 19013,
+      "stars": 19015,
       "starsLabel": "19.0k",
       "accent": "#e56b6f",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 18992,
+      "stars": 18993,
       "starsLabel": "19.0k",
       "accent": "#d97706",
       "tags": [
