@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-03T03:59:44.822Z",
+  "updatedAt": "2026-06-03T04:11:53.931Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 177613,
+      "stars": 177634,
       "starsLabel": "177.6k",
       "accent": "#0f8c86",
       "tags": [
@@ -25,7 +25,7 @@
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 84798,
+      "stars": 84799,
       "starsLabel": "84.8k",
       "accent": "#0f8c86",
       "tags": [
@@ -42,7 +42,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 70319,
+      "stars": 70323,
       "starsLabel": "70.3k",
       "accent": "#f0b33b",
       "tags": [
