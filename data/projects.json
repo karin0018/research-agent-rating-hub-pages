@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-11T04:02:17.534Z",
+  "updatedAt": "2026-06-11T10:21:30.295Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 190155,
-      "starsLabel": "190.2k",
+      "stars": 190474,
+      "starsLabel": "190.5k",
       "accent": "#0f8c86",
       "tags": [
         "ai",
@@ -25,8 +25,8 @@
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 86027,
-      "starsLabel": "86.0k",
+      "stars": 86096,
+      "starsLabel": "86.1k",
       "accent": "#0f8c86",
       "tags": [
         "research",
@@ -42,8 +42,8 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 70929,
-      "starsLabel": "70.9k",
+      "stars": 70964,
+      "starsLabel": "71.0k",
       "accent": "#f0b33b",
       "tags": [
         "agent",
@@ -61,7 +61,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 27626,
+      "stars": 27635,
       "starsLabel": "27.6k",
       "accent": "#f0b33b",
       "tags": [
@@ -80,7 +80,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 19353,
+      "stars": 19356,
       "starsLabel": "19.4k",
       "accent": "#d97706",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "deep-research",
       "fullName": "dzhng/deep-research",
       "url": "https://github.com/dzhng/deep-research",
-      "stars": 19096,
+      "stars": 19098,
       "starsLabel": "19.1k",
       "accent": "#e56b6f",
       "tags": [
@@ -118,7 +118,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 13409,
+      "stars": 13414,
       "starsLabel": "13.4k",
       "accent": "#c2410c",
       "tags": [
@@ -137,7 +137,7 @@
       "name": "open_deep_research",
       "fullName": "langchain-ai/open_deep_research",
       "url": "https://github.com/langchain-ai/open_deep_research",
-      "stars": 11660,
+      "stars": 11668,
       "starsLabel": "11.7k",
       "accent": "#0ea5e9",
       "tags": [
@@ -191,8 +191,8 @@
       "name": "ii-researcher",
       "fullName": "Intelligent-Internet/ii-researcher",
       "url": "https://github.com/Intelligent-Internet/ii-researcher",
-      "stars": 493,
-      "starsLabel": "493",
+      "stars": 494,
+      "starsLabel": "494",
       "accent": "#c2410c",
       "tags": [
         "agent",
