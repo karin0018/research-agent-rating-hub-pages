@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-11T16:02:40.819Z",
+  "updatedAt": "2026-06-11T20:20:18.635Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 190750,
-      "starsLabel": "190.8k",
+      "stars": 190897,
+      "starsLabel": "190.9k",
       "accent": "#0f8c86",
       "tags": [
         "ai",
@@ -25,7 +25,7 @@
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 86163,
+      "stars": 86192,
       "starsLabel": "86.2k",
       "accent": "#0f8c86",
       "tags": [
@@ -42,7 +42,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 70976,
+      "stars": 70985,
       "starsLabel": "71.0k",
       "accent": "#f0b33b",
       "tags": [
@@ -61,7 +61,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 27640,
+      "stars": 27643,
       "starsLabel": "27.6k",
       "accent": "#f0b33b",
       "tags": [
@@ -118,7 +118,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 13414,
+      "stars": 13415,
       "starsLabel": "13.4k",
       "accent": "#c2410c",
       "tags": [
