@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-14T19:24:45.590Z",
+  "updatedAt": "2026-06-14T19:27:11.067Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 193412,
+      "stars": 193414,
       "starsLabel": "193.4k",
       "accent": "#0f8c86",
       "tags": [
@@ -118,7 +118,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 13439,
+      "stars": 13440,
       "starsLabel": "13.4k",
       "accent": "#c2410c",
       "tags": [
