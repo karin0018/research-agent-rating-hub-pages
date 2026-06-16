@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-16T11:08:32.082Z",
+  "updatedAt": "2026-06-16T11:11:23.683Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 194900,
+      "stars": 194902,
       "starsLabel": "194.9k",
       "accent": "#0f8c86",
       "tags": [
@@ -61,7 +61,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 27735,
+      "stars": 27736,
       "starsLabel": "27.7k",
       "accent": "#f0b33b",
       "tags": [
