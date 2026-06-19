@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T19:48:13.830Z",
+  "updatedAt": "2026-06-19T19:49:56.287Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
@@ -80,7 +80,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 19480,
+      "stars": 19481,
       "starsLabel": "19.5k",
       "accent": "#d97706",
       "tags": [
