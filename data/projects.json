@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-20T14:00:54.781Z",
+  "updatedAt": "2026-06-20T14:05:03.084Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 198021,
+      "stars": 198027,
       "starsLabel": "198.0k",
       "accent": "#0f8c86",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "deep-research",
       "fullName": "dzhng/deep-research",
       "url": "https://github.com/dzhng/deep-research",
-      "stars": 19153,
+      "stars": 19155,
       "starsLabel": "19.2k",
       "accent": "#e56b6f",
       "tags": [
