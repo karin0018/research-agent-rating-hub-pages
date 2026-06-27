@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-27T13:43:52.738Z",
+  "updatedAt": "2026-06-27T19:18:41.786Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 204089,
-      "starsLabel": "204.1k",
+      "stars": 204263,
+      "starsLabel": "204.3k",
       "accent": "#0f8c86",
       "tags": [
         "ai",
@@ -25,8 +25,8 @@
       "name": "autoresearch",
       "fullName": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 88845,
-      "starsLabel": "88.8k",
+      "stars": 88875,
+      "starsLabel": "88.9k",
       "accent": "#0f8c86",
       "tags": [
         "research",
@@ -42,7 +42,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 74983,
+      "stars": 75020,
       "starsLabel": "75.0k",
       "accent": "#f0b33b",
       "tags": [
@@ -80,7 +80,7 @@
       "name": "DeepResearch",
       "fullName": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "stars": 19557,
+      "stars": 19561,
       "starsLabel": "19.6k",
       "accent": "#d97706",
       "tags": [
@@ -99,7 +99,7 @@
       "name": "deep-research",
       "fullName": "dzhng/deep-research",
       "url": "https://github.com/dzhng/deep-research",
-      "stars": 19203,
+      "stars": 19208,
       "starsLabel": "19.2k",
       "accent": "#e56b6f",
       "tags": [
@@ -118,7 +118,7 @@
       "name": "RD-Agent",
       "fullName": "microsoft/RD-Agent",
       "url": "https://github.com/microsoft/RD-Agent",
-      "stars": 13675,
+      "stars": 13678,
       "starsLabel": "13.7k",
       "accent": "#c2410c",
       "tags": [
@@ -173,7 +173,7 @@
       "name": "open-deep-research",
       "fullName": "nickscamara/open-deep-research",
       "url": "https://github.com/nickscamara/open-deep-research",
-      "stars": 6257,
+      "stars": 6258,
       "starsLabel": "6.3k",
       "accent": "#f0b33b",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "open-research-ANA",
       "fullName": "CopilotKit/open-research-ANA",
       "url": "https://github.com/CopilotKit/open-research-ANA",
-      "stars": 390,
-      "starsLabel": "390",
+      "stars": 391,
+      "starsLabel": "391",
       "accent": "#e56b6f",
       "tags": [
         "agent-native",
