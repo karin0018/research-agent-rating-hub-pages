@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T19:52:55.048Z",
+  "updatedAt": "2026-07-01T19:56:39.847Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
@@ -42,7 +42,7 @@
       "name": "deer-flow",
       "fullName": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 75748,
+      "stars": 75749,
       "starsLabel": "75.7k",
       "accent": "#f0b33b",
       "tags": [
