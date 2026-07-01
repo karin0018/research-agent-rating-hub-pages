@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-01T09:42:47.426Z",
+  "updatedAt": "2026-07-01T09:47:38.865Z",
   "projects": [
     {
       "id": "nousresearch-hermes-agent",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 206813,
+      "stars": 206818,
       "starsLabel": "206.8k",
       "accent": "#0f8c86",
       "tags": [
@@ -61,7 +61,7 @@
       "name": "gpt-researcher",
       "fullName": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 27992,
+      "stars": 27993,
       "starsLabel": "28.0k",
       "accent": "#f0b33b",
       "tags": [
@@ -154,7 +154,7 @@
       "name": "deep-searcher",
       "fullName": "zilliztech/deep-searcher",
       "url": "https://github.com/zilliztech/deep-searcher",
-      "stars": 7906,
+      "stars": 7907,
       "starsLabel": "7.9k",
       "accent": "#0f8c86",
       "tags": [
